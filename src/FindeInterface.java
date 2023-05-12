@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface FindeInterface {
+public interface FindeInterface {
+    boolean find (Employee employee,String name);
 }
